@@ -1,5 +1,0 @@
-Viviana Siosu repository:
-https://github.com/VivianaLucia/home-repository.git
-acelasi repository, cu SSH: git@github.com:VivianaLucia/home-repository.git
-user: VivianaLucia
-
